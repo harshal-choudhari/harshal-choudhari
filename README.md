@@ -9,7 +9,7 @@
 
 ## Achievements
 * I have contributed to [gitkube](https://github.com/hasura/gitkube). Gitkube is a tool for building and deploying Docker images on Kubernetes using git push.
-* I have also added support for Oauth2.0 in [Zoho books library](https://github.com/harshal-choudhari/books-python-wrappers).
+* I have also added support for Oauth2.0 for [Zoho books library](https://github.com/harshal-choudhari/books-python-wrappers).
 
 ## 📫 Know more about me here -
 * [Linkedin](www.linkedin.com/in/harshal-choudhari-026870111)
