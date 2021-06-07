@@ -9,6 +9,7 @@
 
 ## Achievements
 * I have contributed to [gitkube](https://github.com/hasura/gitkube). Gitkube is a tool for building and deploying Docker images on Kubernetes using git push.
+* I have contributed to [cheat.sh](https://github.com/chubin/cheat.sheets). Unified access to the best community driven cheat sheets repositories of the world.
 * I have also added support for Oauth2.0 for [Zoho books library](https://github.com/harshal-choudhari/books-python-wrappers).
 
 ## 📫 Know more about me here -
