@@ -13,7 +13,7 @@
 * I have also added support for Oauth2.0 for [Zoho books library](https://github.com/harshal-choudhari/books-python-wrappers).
 
 ## 📫 Know more about me here -
-* [Linkedin](www.linkedin.com/in/harshal-choudhari-026870111)
+* [Linkedin](https://www.linkedin.com/in/harshal-choudhari-026870111)
 * [Hackerrank](https://www.hackerrank.com/i_am_hades)
 <!--
 **harshal-choudhari/harshal-choudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
