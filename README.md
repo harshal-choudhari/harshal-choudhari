@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Harshal Choudhari. Welcome to my GitHub.
 :mortar_board: I am Software Engineer at Jio Fynd. I am working on Jio Commerce platform. I have Computer Science degree from University of Pune.
 
-🔭 I like computer programming and computer networks. I like to work on new technology. I like contributing to open source projects. I know Python, Django, Containers, Kubernetes. Recently I have developed interest in ML.
+🔭 I like computer programming and computer networks. I like to work on new technology. I like contributing to open source projects. I have Python, Django, Containers, Kubernetes, Postgres experience. Recently I have developed interest in ML.
 
 :book: I love reading books about computer science and financial literacy and self development.
 
